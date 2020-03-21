@@ -1,0 +1,42 @@
+p{
+  width: 400px;
+  margin: auto;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  color:#2b580c;
+}
+
+.test1{
+  width: 100%;
+  max-width: 100%;
+  display :block;
+}
+
+img{
+  width:4%;
+  }
+  img:hover{background-color: gold;}
+
+body{
+  background-color:#ffd1bd;
+  margin: 0;
+}
+.nature{
+  background-color:#639a67;
+}
+h3{
+  color: #084177;
+  margin-top:0;
+}
+div{
+  background-color:#ffb0cd;
+}
+.animation{
+  border-radius: 100%;
+  width :50%;
+  margin-left:  auto;
+  margin-right: auto;
+  display:block;
+}
